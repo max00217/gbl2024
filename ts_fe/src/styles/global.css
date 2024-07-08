@@ -1,0 +1,31 @@
+@import url(//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSansNeo.css);
+
+
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Spoqa Han Sans Neo', 'sans-serif' !important;
+    letter-spacing: -0.1px !important;
+}
+
+body {
+    width: 100%;
+    overflow: hidden;
+}
+
+html {
+    overflow: hidden;
+
+}
+
+:root {
+    --rpv-core__inner-page-background-color: trasparent !important;
+}
+
+@media screen and (min-width: 1024px) {
+    body {
+        position: relative;
+        max-width: 1000px !important;
+        margin-left: calc(50% - 500px) !important;
+    }
+}

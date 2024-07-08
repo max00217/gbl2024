@@ -1,0 +1,31 @@
+.triangle {
+    width: 0px;
+    border-top: 170px solid #00fa9a;
+    border-left: 105px solid transparent;
+    border-right: 105px solid transparent;
+
+    position: absolute;
+    right: -70px;
+    top: 100px;
+}
+
+.rectangle {
+    width: 160px;
+    height: 160px;
+    background-color: rgb(59, 89, 255);
+
+    position: absolute;
+    bottom: 30px;
+    right: -30px;
+}
+
+.circle {
+    width: 170px;
+    height: 170px;
+    border-radius: 100%;
+    background-color: #ffd400;
+
+    position: absolute;
+    top: 270px;
+    left: -40px;
+}

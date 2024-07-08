@@ -1,0 +1,9 @@
+.GoogleLoginButton {
+
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.login_text {
+    color: rgb(100, 100, 100);
+}
