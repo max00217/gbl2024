@@ -61,7 +61,7 @@ const MyApp = ({ Component, pageProps }: MyAppProps) => {
 		<Provider store={store}>
 			<ThemeProvider theme={theme}>
 				<Head>
-					<title>GBL2023</title>
+					<title>GBL2024</title>
 					<link rel='shortcut icon' href='/favicon.ico' />
 					<link rel='manifest' href='/manifest.json' />
 				</Head>

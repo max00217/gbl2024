@@ -47,7 +47,7 @@ const LoginPage = () => {
 						GBL
 					</Typography>
 					<Typography fontWeight={800} variant='h2' mb={"50px"}>
-						2023
+						2024
 					</Typography>
 					<Typography
 						fontWeight={400}

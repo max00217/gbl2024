@@ -112,7 +112,7 @@ const BoothDetail = () => {
 						color={"rgb(230, 230, 230)"}
 						zIndex={100}
 					>
-						GBL2023
+						GBL2024
 					</Typography>
 					{BoothInfo.thumbnail_url !== undefined ? (
 						<Image

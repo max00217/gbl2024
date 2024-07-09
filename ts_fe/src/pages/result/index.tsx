@@ -24,7 +24,7 @@ const ResultPage = () => {
 				fontWeight={900}
 				color={"rgb(230, 230, 230)"}
 			>
-				GBL2023
+				GBL2024
 			</Typography>
 			<Typography fontWeight={900} variant='h4' ml={"25px"}>
 				채점 결과

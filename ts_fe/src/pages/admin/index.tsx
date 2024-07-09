@@ -71,7 +71,7 @@ const AdminLoaginPage = () => {
 						GBL
 					</Typography>
 					<Typography fontWeight={800} variant='h2'>
-						2023
+						2024
 					</Typography>
 					<Typography
 						fontWeight={800}

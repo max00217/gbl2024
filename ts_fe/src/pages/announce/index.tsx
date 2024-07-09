@@ -64,7 +64,7 @@ const AnnouncePage = () => {
 					fontWeight={900}
 					color={"rgb(230, 230, 230)"}
 				>
-					GBL2023
+					GBL2024
 				</Typography>
 				<Typography fontSize={"35px"} ml={"25px"} fontWeight={900}>
 					공지사항

@@ -347,7 +347,7 @@ const MakeBoothPage = () => {
 					fontWeight={900}
 					color={"rgb(230, 230, 230)"}
 				>
-					GBL2023
+					GBL2024
 				</Typography>
 				<Typography fontWeight={900} variant='h4' mt={"70px"} ml={"25px"}>
 					부스만들기

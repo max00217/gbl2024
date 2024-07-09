@@ -91,7 +91,7 @@ const BoothListPage = () => {
 					fontWeight={900}
 					color={"rgb(230, 230, 230)"}
 				>
-					GBL2023
+					GBL2024
 				</Typography>
 				<Header openModal={openQr} hide={scrolled}></Header>
 
