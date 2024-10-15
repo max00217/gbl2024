@@ -54,6 +54,7 @@ func main() {
 	db.AutoMigrate(&problem.Problem{})
 	db.AutoMigrate(&notification.Notification{})
 
+	// 등록할 새 비밀번호
 	password := "fingbl2024der"
 
 	// 기존 어드민 비밀번호 삭제
