@@ -1,5 +1,5 @@
 build:
-	go build -o gbl-api gbl-api/cmd/gbl-api
+	CGO_ENABLED=1 go build -o gbl-api gbl-api/cmd/gbl-api
 
 run: build
 	./gbl-api

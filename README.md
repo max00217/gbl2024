@@ -39,6 +39,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ```bash
 cd go_api
+go mod tidy
 make build
 make run
 # if you need to clean directory
